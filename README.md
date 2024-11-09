@@ -22,7 +22,7 @@
  </a> 
  
  <a 
-    href="https://www.cheatengine.org" 
+    href="https://hex-rays.com/ida-pro" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://ctftime.org/media/cache/48/d5/48d50a3e9812385c0c4074b7ef7a8eeb.png"
