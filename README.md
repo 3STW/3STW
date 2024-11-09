@@ -2,8 +2,11 @@
 
 ## about me
 🕋 - i am  from Saudi arabia
+
 ⚡ - i like coding stupied stuff and cheets
+
 🎮 - i love video games :)
+
 ## Tools i use
  <a 
     href="https://www.cheatengine.org" 
