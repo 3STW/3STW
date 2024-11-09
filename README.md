@@ -12,14 +12,21 @@
     /> 
  </a> 
  <a 
-    href="https://www.cheatengine.org" 
+    href="https://github.com/ReClassNET/ReClass.NET" 
     target="_blank" rel="noreferrer"> 
     <img
         src="https://avatars.githubusercontent.com/u/36203059?v=4"
-        alt="CheatEngine" width="40" height="40"
+        alt="ReClass" width="40" height="40"
     /> 
  </a> 
-
+ <a 
+    href="https://www.cheatengine.org" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://ctftime.org/media/cache/48/d5/48d50a3e9812385c0c4074b7ef7a8eeb.png"
+        alt="IDA Pro" width="40" height="40"
+    /> 
+ </a> 
 
 
 
